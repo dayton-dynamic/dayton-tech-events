@@ -55,3 +55,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# HTML-related
+.sass-cache/
+_site/
+

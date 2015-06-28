@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Events</h1>
+
+  <ul>
+  {% for event in site.data.events.items %}
+    <li>{{event.start.dateTime | date: "%a, %b %I:%M %p"  }}:
+      <a href="{{event.htmlLink}}">{{event.summary}}</a></li>
+  {% endfor %}
+  </ul>
+
+  <h1>Groups and Links</h1>
+
+  <ul>
+  {% for grp in site.data.groups %}
+    <li><a href="{{grp.url}}">{{grp.name}}</a></li>
+  {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

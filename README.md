@@ -17,6 +17,10 @@ Pretty much everything, except for
 - Events outside the Dayton area; if it's closer to Cincinnati or Columbus than to Dayton, 
 it should be listed at the appropriate city's site
 
+## Build locally
+
+To preview locally, install Docker, then run `./jekyll_in_docker.sh`
+
 ## Contributing
 
 As you can see, a Jekyll theme would be nice.
