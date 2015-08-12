@@ -1,14 +1,1536 @@
 {
- "error": {
-  "errors": [
-   {
-    "domain": "usageLimits",
-    "reason": "dailyLimitExceededUnreg",
-    "message": "Daily Limit for Unauthenticated Use Exceeded. Continued use requires signup.",
-    "extendedHelp": "https://code.google.com/apis/console"
-   }
-  ],
-  "code": 403,
-  "message": "Daily Limit for Unauthenticated Use Exceeded. Continued use requires signup."
- }
+ "kind": "calendar#events",
+ "etag": "\"1439100623953000\"",
+ "summary": "admin@daytontechevents.com",
+ "description": "Centralized calendar for technology-related events in Dayton",
+ "updated": "2015-08-09T06:10:23.953Z",
+ "timeZone": "America/New_York",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"2722658221618000\"",
+   "id": "qsvufi1ms68j4mntkfja4kq3q4_20150811T154500Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cXN2dWZpMW1zNjhqNG1udGtmamE0a3EzcTRfMjAxNTA4MTFUMTU0NTAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "0000-12-29T00:00:00.000Z",
+   "updated": "2013-02-20T02:58:30.809Z",
+   "summary": "DACW Lunch Bunch",
+   "description": "Dayton Area Computing Women - Lunch Bunch\n\ndacw.org\n\nWe meet at Fairfield Mall Food Court (in the area in front of Great\nEscape) around 11:45. Just grab your lunch at the place of your choice\n(or brown bag it) and join us - don't feel obligated to get something\nthere if finances are tight but please join us! It's a great way to get\nout of the office and away from the computer so I hope to see you there!\n\nDACW supports women in computing by facilitating peer communication, advancing technical education, and strengthening personal skills, in order to further the professional development of its members.",
+   "location": "Fairfield Mall Food Court",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-11T11:45:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-08-11T12:45:00-04:00"
+   },
+   "recurringEventId": "qsvufi1ms68j4mntkfja4kq3q4",
+   "originalStartTime": {
+    "dateTime": "2015-08-11T11:45:00-04:00"
+   },
+   "iCalUID": "qsvufi1ms68j4mntkfja4kq3q4@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2695320188000000\"",
+   "id": "1ttkkhj4m32k10nekvahq628c4_20150812T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MXR0a2toajRtMzJrMTBuZWt2YWhxNjI4YzRfMjAxNTA4MTJUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-04T14:51:03.000Z",
+   "updated": "2012-09-14T22:01:34.000Z",
+   "summary": "Dayton Dynamic Languages SIG",
+   "description": "The Dayton Dynamic Languages Users Group was born out of the Dayton Perl Mongers, which widened their interests to include other languages such as PHP, Python, Ruby on Rails, CGI, etc., in addition to Perl.\n\nhttp://dayton-dynamic.github.com/",
+   "location": "Dayton Chess Club, 18 West Fifth St., Dayton, Dayton OH",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-12T19:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-08-12T20:00:00-04:00"
+   },
+   "recurringEventId": "1ttkkhj4m32k10nekvahq628c4",
+   "originalStartTime": {
+    "dateTime": "2015-08-12T19:00:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "1ttkkhj4m32k10nekvahq628c4@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2824199667860000\"",
+   "id": "q3gthv3h5v6pcbtp5bcjjhuumk_20150813T150000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cTNndGh2M2g1djZwY2J0cDViY2pqaHV1bWtfMjAxNTA4MTNUMTUwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2014-09-30T17:57:13.000Z",
+   "updated": "2014-09-30T17:57:13.930Z",
+   "summary": "Dayton Data Visualization",
+   "description": "http://www.meetup.com/daytondv/",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-13T11:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-08-13T12:30:00-04:00"
+   },
+   "recurringEventId": "q3gthv3h5v6pcbtp5bcjjhuumk",
+   "originalStartTime": {
+    "dateTime": "2015-08-13T11:00:00-04:00"
+   },
+   "iCalUID": "q3gthv3h5v6pcbtp5bcjjhuumk@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2544181654018000\"",
+   "id": "plo3eiahrqrtih7k0b2t0gtioo_20150813T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cGxvM2VpYWhycXJ0aWg3azBiMnQwZ3Rpb29fMjAxNTA4MTNUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-04T15:04:36.000Z",
+   "updated": "2010-04-24T06:33:47.009Z",
+   "summary": "Ohio Information Security Forum",
+   "description": "http://www.ohioinfosec.org/",
+   "location": "Miami Valley Research Park - Sinclair Learning Center 1900 Founders Drive Suite 100 Dayton, Ohio 45420",
+   "creator": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-13T19:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-08-13T21:00:00-04:00"
+   },
+   "recurringEventId": "plo3eiahrqrtih7k0b2t0gtioo",
+   "originalStartTime": {
+    "dateTime": "2015-08-13T19:00:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "plo3eiahrqrtih7k0b2t0gtioo@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2544181654758000\"",
+   "id": "ogmsohsnjujlnaikrs3fctrr84_20150815T190000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b2dtc29oc25qdWpsbmFpa3JzM2ZjdHJyODRfMjAxNTA4MTVUMTkwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-04T14:48:16.000Z",
+   "updated": "2010-04-24T06:33:47.379Z",
+   "summary": "DMA Classic Computer SIG",
+   "description": "Classes in older computer hardware and software\n\nhttp://www.dma.org/sigs.shtml#Classic",
+   "location": "Sugar Grove Bible Church, 7875 S. Kessler-Frederick Road, Dayton OH",
+   "creator": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-15T15:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-08-15T17:00:00-04:00"
+   },
+   "recurringEventId": "ogmsohsnjujlnaikrs3fctrr84",
+   "originalStartTime": {
+    "dateTime": "2015-08-15T15:00:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "ogmsohsnjujlnaikrs3fctrr84@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2853081387440000\"",
+   "id": "rn4pa91ovataslnj3fgi4ihpc8_20150817T223000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cm40cGE5MW92YXRhc2xuajNmZ2k0aWhwYzhfMjAxNTA4MTdUMjIzMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2013-09-15T14:26:16.000Z",
+   "updated": "2015-03-16T21:18:13.720Z",
+   "summary": "Dayton Drupal User Group",
+   "description": "A monthly user group for Drupal enthusiasts and professionals to share their Drupal knowledge and experience.",
+   "location": "4035 Col. Glenn Hwy., Suite 300, Beavercreek, OH",
+   "creator": {
+    "email": "grant.g.root@gmail.com",
+    "displayName": "Grant Root"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-17T18:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2015-08-17T20:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "recurringEventId": "rn4pa91ovataslnj3fgi4ihpc8",
+   "originalStartTime": {
+    "dateTime": "2015-08-17T18:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "visibility": "public",
+   "iCalUID": "rn4pa91ovataslnj3fgi4ihpc8@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2590783633342000\"",
+   "id": "a14opckienffgtpdqpp3iip404_20150817T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YTE0b3Bja2llbmZmZ3RwZHFwcDNpaXA0MDRfMjAxNTA4MTdUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-12-04T16:00:14.000Z",
+   "updated": "2011-01-18T23:03:36.671Z",
+   "summary": "Apple Dayton SIG",
+   "description": "http://sites.google.com/site/appledaytonsig/",
+   "location": "Fairborn, OH",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-17T19:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-08-17T20:00:00-04:00"
+   },
+   "recurringEventId": "a14opckienffgtpdqpp3iip404",
+   "originalStartTime": {
+    "dateTime": "2015-08-17T19:00:00-04:00"
+   },
+   "iCalUID": "a14opckienffgtpdqpp3iip404@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2569045582746000\"",
+   "id": "h1qj8thdc46e43lc4utqi6q9bo_20150818T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aDFxajh0aGRjNDZlNDNsYzR1dHFpNnE5Ym9fMjAxNTA4MThUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-25T21:31:08.000Z",
+   "updated": "2010-09-15T03:53:11.373Z",
+   "summary": "DMA Software Development SIG",
+   "description": "http://www.dma.org/softdev/",
+   "location": "Donato's Pizza, 5600 Airway Rd., Riverside, OH",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-18T19:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-08-18T20:00:00-04:00"
+   },
+   "recurringEventId": "h1qj8thdc46e43lc4utqi6q9bo",
+   "originalStartTime": {
+    "dateTime": "2015-08-18T19:00:00-04:00"
+   },
+   "iCalUID": "h1qj8thdc46e43lc4utqi6q9bo@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2800403507334000\"",
+   "id": "080vm3nkj9g538a1ivftr3ua78_20150820T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDgwdm0zbmtqOWc1MzhhMWl2ZnRyM3VhNzhfMjAxNTA4MjBUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "0000-12-29T00:00:00.000Z",
+   "updated": "2014-05-16T00:55:53.667Z",
+   "summary": "Dayton Linux User Group",
+   "description": "http://www.dma1.org/linux/",
+   "location": "Russ Engineering, Wright State University, Dayton, OH (usually; varies)",
+   "creator": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-20T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2015-08-20T21:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "recurringEventId": "080vm3nkj9g538a1ivftr3ua78",
+   "originalStartTime": {
+    "dateTime": "2015-08-20T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "visibility": "public",
+   "iCalUID": "080vm3nkj9g538a1ivftr3ua78@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2722658120804000\"",
+   "id": "pgkm6updute6shaeqgc7sasu48_20150824T223000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cGdrbTZ1cGR1dGU2c2hhZXFnYzdzYXN1NDhfMjAxNTA4MjRUMjIzMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-04-15T14:52:03.000Z",
+   "updated": "2013-02-20T02:57:40.402Z",
+   "summary": "Dayton Area Computing Women",
+   "description": "Dinner meeting.  See dacw.org\n\nDACW supports women in computing by facilitating peer communication, advancing technical education, and strengthening personal skills, in order to further the professional development of its members.",
+   "location": "Panera Bread, 2751 Fairfield Commons Boulevard, Beavercreek, OH (Fairfield Mall)",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-24T18:30:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-08-24T20:00:00-04:00"
+   },
+   "recurringEventId": "pgkm6updute6shaeqgc7sasu48",
+   "originalStartTime": {
+    "dateTime": "2015-08-24T18:30:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "pgkm6updute6shaeqgc7sasu48@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2796069077156000\"",
+   "id": "dhrjd4vmmfp9ohs71dcesaabns_20150825T160000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZGhyamQ0dm1tZnA5b2hzNzFkY2VzYWFibnNfMjAxNTA4MjVUMTYwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2013-02-23T05:27:00.000Z",
+   "updated": "2014-04-20T22:55:38.578Z",
+   "summary": "Dayton Ruby Brigade",
+   "description": "http://www.meetup.com/daytonrb\n\nWe are group of programmers, students, and technology enthusiasts who are excited about the Ruby programming language and the Ruby on Rails web framework.\n\nWe meet on the fourth Tuesday of every month to contribute to open source, work on personal projects, and present topics related to Ruby. All skill levels are welcome!\n\nFood and drinks for attendees.\n",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-25T12:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-08-25T13:00:00-04:00"
+   },
+   "recurringEventId": "dhrjd4vmmfp9ohs71dcesaabns",
+   "originalStartTime": {
+    "dateTime": "2015-08-25T12:00:00-04:00"
+   },
+   "transparency": "transparent",
+   "iCalUID": "dhrjd4vmmfp9ohs71dcesaabns@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2876607130650000\"",
+   "id": "h1j0vuasa0q51r14ktgfd5ol4g_20150826T220000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aDFqMHZ1YXNhMHE1MXIxNGt0Z2ZkNW9sNGdfMjAxNTA4MjZUMjIwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-08-12T15:13:40.000Z",
+   "updated": "2015-07-31T00:46:05.325Z",
+   "summary": "Dayton .NET Developer Group: A Lap around ASP.NET vNext! – Sam Basu",
+   "description": "Change is in the air for ASP.NET developers, as vNext ushers in a new era.\n\nLet’s talk – Open Source | .NET Frameworks Changes| ASP.NET Runtimes | WebForms | MVC 6 | C# 6.0 | VS Tooling | Omnisharp.NET | Homebrew | Yeoman | CLI & Sublime Text.\n\nJoin me as we explore all that’s new & shiny. This is one of the best times to be an ASP.NET developer – let me show you why!\n\nBio: Sam Basu (@samidip) is a technologist, Apress/Pluralsight author, speaker, Microsoft MVP, believer in software craftsmanship, gadget-lover and Developer Advocate for Telerik. With a long developer background, he now spends much of his time advocating modern web/mobile/cloud development platforms on Microsoft/Telerik stacks. He passionately helps run The Windows Developer User Group (http://thewindowsdeveloperusergroup.com/), labors in M3 Conf (http://m3conf.com/) organization, serves as INETA Secretary (http://www.ineta.org/) and can be found with at-least a couple of hobbyist projects at any time. His spare times call for travel and culinary adventures with the wife. Find out more at http://samidipbasu.com. ",
+   "location": "IDCAST/UDRI, TechTown, 711 East Monument Avenue, Suite 101",
+   "creator": {
+    "email": "joewirtley@gmail.com",
+    "displayName": "Joe Wirtley"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-08-26T18:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-08-26T21:00:00-04:00"
+   },
+   "recurringEventId": "h1j0vuasa0q51r14ktgfd5ol4g",
+   "originalStartTime": {
+    "dateTime": "2015-08-26T18:00:00-04:00"
+   },
+   "iCalUID": "h1j0vuasa0q51r14ktgfd5ol4g@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2844392722870000\"",
+   "id": "7970jr4fnstvnu69lfbq5qelvc_20150901T223000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nzk3MGpyNGZuc3R2bnU2OWxmYnE1cWVsdmNfMjAxNTA5MDFUMjIzMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2015-01-25T14:32:41.000Z",
+   "updated": "2015-01-25T14:32:41.435Z",
+   "summary": "Code for Dayton",
+   "description": "http://www.meetup.com/Code-for-Dayton/",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-01T18:30:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-01T20:00:00-04:00"
+   },
+   "recurringEventId": "7970jr4fnstvnu69lfbq5qelvc",
+   "originalStartTime": {
+    "dateTime": "2015-09-01T18:30:00-04:00"
+   },
+   "iCalUID": "7970jr4fnstvnu69lfbq5qelvc@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2678026982000000\"",
+   "id": "cqk2gdfcvjdgk7mroqj1km08s4_20150902T220000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y3FrMmdkZmN2amRnazdtcm9xajFrbTA4czRfMjAxNTA5MDJUMjIwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-06T13:35:05.000Z",
+   "updated": "2012-06-06T20:11:31.000Z",
+   "summary": "Dayton Web Developers",
+   "description": "Dayton Ohio area web developers meet to network and share information.\nhttp://www.meetup.com/dayton-web-developers/\nhttps://www.knowledgenow.net/community/views/home.aspx?Filter=104",
+   "location": "Crown Partners, 7750 Paragon Road, Dayton, OH",
+   "creator": {
+    "email": "grant.g.root@gmail.com",
+    "displayName": "Grant Root"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-02T18:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-02T19:30:00-04:00"
+   },
+   "recurringEventId": "cqk2gdfcvjdgk7mroqj1km08s4",
+   "originalStartTime": {
+    "dateTime": "2015-09-02T18:00:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "cqk2gdfcvjdgk7mroqj1km08s4@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2822542879170000\"",
+   "id": "0qaboh1vhsmtqfvvfq5cp8hv34_20150903T223000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MHFhYm9oMXZoc210cWZ2dmZxNWNwOGh2MzRfMjAxNTA5MDNUMjIzMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2014-09-21T03:50:39.000Z",
+   "updated": "2014-09-21T03:50:39.585Z",
+   "summary": "Dayton Area Network Professionals",
+   "description": "http://danpa.org/",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-03T18:30:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-03T21:00:00-04:00"
+   },
+   "recurringEventId": "0qaboh1vhsmtqfvvfq5cp8hv34",
+   "originalStartTime": {
+    "dateTime": "2015-09-03T18:30:00-04:00"
+   },
+   "iCalUID": "0qaboh1vhsmtqfvvfq5cp8hv34@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2722658221618000\"",
+   "id": "qsvufi1ms68j4mntkfja4kq3q4_20150908T154500Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cXN2dWZpMW1zNjhqNG1udGtmamE0a3EzcTRfMjAxNTA5MDhUMTU0NTAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "0000-12-29T00:00:00.000Z",
+   "updated": "2013-02-20T02:58:30.809Z",
+   "summary": "DACW Lunch Bunch",
+   "description": "Dayton Area Computing Women - Lunch Bunch\n\ndacw.org\n\nWe meet at Fairfield Mall Food Court (in the area in front of Great\nEscape) around 11:45. Just grab your lunch at the place of your choice\n(or brown bag it) and join us - don't feel obligated to get something\nthere if finances are tight but please join us! It's a great way to get\nout of the office and away from the computer so I hope to see you there!\n\nDACW supports women in computing by facilitating peer communication, advancing technical education, and strengthening personal skills, in order to further the professional development of its members.",
+   "location": "Fairfield Mall Food Court",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-08T11:45:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-08T12:45:00-04:00"
+   },
+   "recurringEventId": "qsvufi1ms68j4mntkfja4kq3q4",
+   "originalStartTime": {
+    "dateTime": "2015-09-08T11:45:00-04:00"
+   },
+   "iCalUID": "qsvufi1ms68j4mntkfja4kq3q4@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2695320188000000\"",
+   "id": "1ttkkhj4m32k10nekvahq628c4_20150909T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MXR0a2toajRtMzJrMTBuZWt2YWhxNjI4YzRfMjAxNTA5MDlUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-04T14:51:03.000Z",
+   "updated": "2012-09-14T22:01:34.000Z",
+   "summary": "Dayton Dynamic Languages SIG",
+   "description": "The Dayton Dynamic Languages Users Group was born out of the Dayton Perl Mongers, which widened their interests to include other languages such as PHP, Python, Ruby on Rails, CGI, etc., in addition to Perl.\n\nhttp://dayton-dynamic.github.com/",
+   "location": "Dayton Chess Club, 18 West Fifth St., Dayton, Dayton OH",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-09T19:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-09T20:00:00-04:00"
+   },
+   "recurringEventId": "1ttkkhj4m32k10nekvahq628c4",
+   "originalStartTime": {
+    "dateTime": "2015-09-09T19:00:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "1ttkkhj4m32k10nekvahq628c4@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2824199667860000\"",
+   "id": "q3gthv3h5v6pcbtp5bcjjhuumk_20150910T150000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cTNndGh2M2g1djZwY2J0cDViY2pqaHV1bWtfMjAxNTA5MTBUMTUwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2014-09-30T17:57:13.000Z",
+   "updated": "2014-09-30T17:57:13.930Z",
+   "summary": "Dayton Data Visualization",
+   "description": "http://www.meetup.com/daytondv/",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-10T11:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-10T12:30:00-04:00"
+   },
+   "recurringEventId": "q3gthv3h5v6pcbtp5bcjjhuumk",
+   "originalStartTime": {
+    "dateTime": "2015-09-10T11:00:00-04:00"
+   },
+   "iCalUID": "q3gthv3h5v6pcbtp5bcjjhuumk@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2544181654018000\"",
+   "id": "plo3eiahrqrtih7k0b2t0gtioo_20150910T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cGxvM2VpYWhycXJ0aWg3azBiMnQwZ3Rpb29fMjAxNTA5MTBUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-04T15:04:36.000Z",
+   "updated": "2010-04-24T06:33:47.009Z",
+   "summary": "Ohio Information Security Forum",
+   "description": "http://www.ohioinfosec.org/",
+   "location": "Miami Valley Research Park - Sinclair Learning Center 1900 Founders Drive Suite 100 Dayton, Ohio 45420",
+   "creator": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-10T19:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-10T21:00:00-04:00"
+   },
+   "recurringEventId": "plo3eiahrqrtih7k0b2t0gtioo",
+   "originalStartTime": {
+    "dateTime": "2015-09-10T19:00:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "plo3eiahrqrtih7k0b2t0gtioo@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2569045582746000\"",
+   "id": "h1qj8thdc46e43lc4utqi6q9bo_20150915T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aDFxajh0aGRjNDZlNDNsYzR1dHFpNnE5Ym9fMjAxNTA5MTVUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-25T21:31:08.000Z",
+   "updated": "2010-09-15T03:53:11.373Z",
+   "summary": "DMA Software Development SIG",
+   "description": "http://www.dma.org/softdev/",
+   "location": "Donato's Pizza, 5600 Airway Rd., Riverside, OH",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-15T19:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-15T20:00:00-04:00"
+   },
+   "recurringEventId": "h1qj8thdc46e43lc4utqi6q9bo",
+   "originalStartTime": {
+    "dateTime": "2015-09-15T19:00:00-04:00"
+   },
+   "iCalUID": "h1qj8thdc46e43lc4utqi6q9bo@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2800403507334000\"",
+   "id": "080vm3nkj9g538a1ivftr3ua78_20150917T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDgwdm0zbmtqOWc1MzhhMWl2ZnRyM3VhNzhfMjAxNTA5MTdUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "0000-12-29T00:00:00.000Z",
+   "updated": "2014-05-16T00:55:53.667Z",
+   "summary": "Dayton Linux User Group",
+   "description": "http://www.dma1.org/linux/",
+   "location": "Russ Engineering, Wright State University, Dayton, OH (usually; varies)",
+   "creator": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-17T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2015-09-17T21:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "recurringEventId": "080vm3nkj9g538a1ivftr3ua78",
+   "originalStartTime": {
+    "dateTime": "2015-09-17T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "visibility": "public",
+   "iCalUID": "080vm3nkj9g538a1ivftr3ua78@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2544181654758000\"",
+   "id": "ogmsohsnjujlnaikrs3fctrr84_20150919T190000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b2dtc29oc25qdWpsbmFpa3JzM2ZjdHJyODRfMjAxNTA5MTlUMTkwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-04T14:48:16.000Z",
+   "updated": "2010-04-24T06:33:47.379Z",
+   "summary": "DMA Classic Computer SIG",
+   "description": "Classes in older computer hardware and software\n\nhttp://www.dma.org/sigs.shtml#Classic",
+   "location": "Sugar Grove Bible Church, 7875 S. Kessler-Frederick Road, Dayton OH",
+   "creator": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-19T15:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-19T17:00:00-04:00"
+   },
+   "recurringEventId": "ogmsohsnjujlnaikrs3fctrr84",
+   "originalStartTime": {
+    "dateTime": "2015-09-19T15:00:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "ogmsohsnjujlnaikrs3fctrr84@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2853081387440000\"",
+   "id": "rn4pa91ovataslnj3fgi4ihpc8_20150921T223000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cm40cGE5MW92YXRhc2xuajNmZ2k0aWhwYzhfMjAxNTA5MjFUMjIzMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2013-09-15T14:26:16.000Z",
+   "updated": "2015-03-16T21:18:13.720Z",
+   "summary": "Dayton Drupal User Group",
+   "description": "A monthly user group for Drupal enthusiasts and professionals to share their Drupal knowledge and experience.",
+   "location": "4035 Col. Glenn Hwy., Suite 300, Beavercreek, OH",
+   "creator": {
+    "email": "grant.g.root@gmail.com",
+    "displayName": "Grant Root"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-21T18:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2015-09-21T20:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "recurringEventId": "rn4pa91ovataslnj3fgi4ihpc8",
+   "originalStartTime": {
+    "dateTime": "2015-09-21T18:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "visibility": "public",
+   "iCalUID": "rn4pa91ovataslnj3fgi4ihpc8@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2590783633342000\"",
+   "id": "a14opckienffgtpdqpp3iip404_20150921T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YTE0b3Bja2llbmZmZ3RwZHFwcDNpaXA0MDRfMjAxNTA5MjFUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-12-04T16:00:14.000Z",
+   "updated": "2011-01-18T23:03:36.671Z",
+   "summary": "Apple Dayton SIG",
+   "description": "http://sites.google.com/site/appledaytonsig/",
+   "location": "Fairborn, OH",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-21T19:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-21T20:00:00-04:00"
+   },
+   "recurringEventId": "a14opckienffgtpdqpp3iip404",
+   "originalStartTime": {
+    "dateTime": "2015-09-21T19:00:00-04:00"
+   },
+   "iCalUID": "a14opckienffgtpdqpp3iip404@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2796069077156000\"",
+   "id": "dhrjd4vmmfp9ohs71dcesaabns_20150922T160000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZGhyamQ0dm1tZnA5b2hzNzFkY2VzYWFibnNfMjAxNTA5MjJUMTYwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2013-02-23T05:27:00.000Z",
+   "updated": "2014-04-20T22:55:38.578Z",
+   "summary": "Dayton Ruby Brigade",
+   "description": "http://www.meetup.com/daytonrb\n\nWe are group of programmers, students, and technology enthusiasts who are excited about the Ruby programming language and the Ruby on Rails web framework.\n\nWe meet on the fourth Tuesday of every month to contribute to open source, work on personal projects, and present topics related to Ruby. All skill levels are welcome!\n\nFood and drinks for attendees.\n",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-22T12:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-22T13:00:00-04:00"
+   },
+   "recurringEventId": "dhrjd4vmmfp9ohs71dcesaabns",
+   "originalStartTime": {
+    "dateTime": "2015-09-22T12:00:00-04:00"
+   },
+   "transparency": "transparent",
+   "iCalUID": "dhrjd4vmmfp9ohs71dcesaabns@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2569045585186000\"",
+   "id": "h1j0vuasa0q51r14ktgfd5ol4g_20150923T220000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aDFqMHZ1YXNhMHE1MXIxNGt0Z2ZkNW9sNGdfMjAxNTA5MjNUMjIwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-08-12T15:13:40.000Z",
+   "updated": "2010-09-15T03:53:12.593Z",
+   "summary": "Dayton .NET Developer Group",
+   "description": "See the web site for upcoming meeting topics: http://DaytonDevGroup.net",
+   "location": "IDCAST/UDRI, TechTown, 711 East Monument Avenue, Suite 101",
+   "creator": {
+    "email": "joewirtley@gmail.com",
+    "displayName": "Joe Wirtley"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-23T18:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-23T21:00:00-04:00"
+   },
+   "recurringEventId": "h1j0vuasa0q51r14ktgfd5ol4g",
+   "originalStartTime": {
+    "dateTime": "2015-09-23T18:00:00-04:00"
+   },
+   "iCalUID": "h1j0vuasa0q51r14ktgfd5ol4g@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2722658120804000\"",
+   "id": "pgkm6updute6shaeqgc7sasu48_20150928T223000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cGdrbTZ1cGR1dGU2c2hhZXFnYzdzYXN1NDhfMjAxNTA5MjhUMjIzMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-04-15T14:52:03.000Z",
+   "updated": "2013-02-20T02:57:40.402Z",
+   "summary": "Dayton Area Computing Women",
+   "description": "Dinner meeting.  See dacw.org\n\nDACW supports women in computing by facilitating peer communication, advancing technical education, and strengthening personal skills, in order to further the professional development of its members.",
+   "location": "Panera Bread, 2751 Fairfield Commons Boulevard, Beavercreek, OH (Fairfield Mall)",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-28T18:30:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-28T20:00:00-04:00"
+   },
+   "recurringEventId": "pgkm6updute6shaeqgc7sasu48",
+   "originalStartTime": {
+    "dateTime": "2015-09-28T18:30:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "pgkm6updute6shaeqgc7sasu48@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2844392722870000\"",
+   "id": "7970jr4fnstvnu69lfbq5qelvc_20150929T223000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nzk3MGpyNGZuc3R2bnU2OWxmYnE1cWVsdmNfMjAxNTA5MjlUMjIzMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2015-01-25T14:32:41.000Z",
+   "updated": "2015-01-25T14:32:41.435Z",
+   "summary": "Code for Dayton",
+   "description": "http://www.meetup.com/Code-for-Dayton/",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-09-29T18:30:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-09-29T20:00:00-04:00"
+   },
+   "recurringEventId": "7970jr4fnstvnu69lfbq5qelvc",
+   "originalStartTime": {
+    "dateTime": "2015-09-29T18:30:00-04:00"
+   },
+   "iCalUID": "7970jr4fnstvnu69lfbq5qelvc@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2822542879170000\"",
+   "id": "0qaboh1vhsmtqfvvfq5cp8hv34_20151001T223000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MHFhYm9oMXZoc210cWZ2dmZxNWNwOGh2MzRfMjAxNTEwMDFUMjIzMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2014-09-21T03:50:39.000Z",
+   "updated": "2014-09-21T03:50:39.585Z",
+   "summary": "Dayton Area Network Professionals",
+   "description": "http://danpa.org/",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-01T18:30:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-10-01T21:00:00-04:00"
+   },
+   "recurringEventId": "0qaboh1vhsmtqfvvfq5cp8hv34",
+   "originalStartTime": {
+    "dateTime": "2015-10-01T18:30:00-04:00"
+   },
+   "iCalUID": "0qaboh1vhsmtqfvvfq5cp8hv34@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2678026982000000\"",
+   "id": "cqk2gdfcvjdgk7mroqj1km08s4_20151007T220000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y3FrMmdkZmN2amRnazdtcm9xajFrbTA4czRfMjAxNTEwMDdUMjIwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-06T13:35:05.000Z",
+   "updated": "2012-06-06T20:11:31.000Z",
+   "summary": "Dayton Web Developers",
+   "description": "Dayton Ohio area web developers meet to network and share information.\nhttp://www.meetup.com/dayton-web-developers/\nhttps://www.knowledgenow.net/community/views/home.aspx?Filter=104",
+   "location": "Crown Partners, 7750 Paragon Road, Dayton, OH",
+   "creator": {
+    "email": "grant.g.root@gmail.com",
+    "displayName": "Grant Root"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-07T18:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-10-07T19:30:00-04:00"
+   },
+   "recurringEventId": "cqk2gdfcvjdgk7mroqj1km08s4",
+   "originalStartTime": {
+    "dateTime": "2015-10-07T18:00:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "cqk2gdfcvjdgk7mroqj1km08s4@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2824199667860000\"",
+   "id": "q3gthv3h5v6pcbtp5bcjjhuumk_20151008T150000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cTNndGh2M2g1djZwY2J0cDViY2pqaHV1bWtfMjAxNTEwMDhUMTUwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2014-09-30T17:57:13.000Z",
+   "updated": "2014-09-30T17:57:13.930Z",
+   "summary": "Dayton Data Visualization",
+   "description": "http://www.meetup.com/daytondv/",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-08T11:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-10-08T12:30:00-04:00"
+   },
+   "recurringEventId": "q3gthv3h5v6pcbtp5bcjjhuumk",
+   "originalStartTime": {
+    "dateTime": "2015-10-08T11:00:00-04:00"
+   },
+   "iCalUID": "q3gthv3h5v6pcbtp5bcjjhuumk@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2544181654018000\"",
+   "id": "plo3eiahrqrtih7k0b2t0gtioo_20151008T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cGxvM2VpYWhycXJ0aWg3azBiMnQwZ3Rpb29fMjAxNTEwMDhUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-04T15:04:36.000Z",
+   "updated": "2010-04-24T06:33:47.009Z",
+   "summary": "Ohio Information Security Forum",
+   "description": "http://www.ohioinfosec.org/",
+   "location": "Miami Valley Research Park - Sinclair Learning Center 1900 Founders Drive Suite 100 Dayton, Ohio 45420",
+   "creator": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-08T19:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-10-08T21:00:00-04:00"
+   },
+   "recurringEventId": "plo3eiahrqrtih7k0b2t0gtioo",
+   "originalStartTime": {
+    "dateTime": "2015-10-08T19:00:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "plo3eiahrqrtih7k0b2t0gtioo@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2722658221618000\"",
+   "id": "qsvufi1ms68j4mntkfja4kq3q4_20151013T154500Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cXN2dWZpMW1zNjhqNG1udGtmamE0a3EzcTRfMjAxNTEwMTNUMTU0NTAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "0000-12-29T00:00:00.000Z",
+   "updated": "2013-02-20T02:58:30.809Z",
+   "summary": "DACW Lunch Bunch",
+   "description": "Dayton Area Computing Women - Lunch Bunch\n\ndacw.org\n\nWe meet at Fairfield Mall Food Court (in the area in front of Great\nEscape) around 11:45. Just grab your lunch at the place of your choice\n(or brown bag it) and join us - don't feel obligated to get something\nthere if finances are tight but please join us! It's a great way to get\nout of the office and away from the computer so I hope to see you there!\n\nDACW supports women in computing by facilitating peer communication, advancing technical education, and strengthening personal skills, in order to further the professional development of its members.",
+   "location": "Fairfield Mall Food Court",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-13T11:45:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-10-13T12:45:00-04:00"
+   },
+   "recurringEventId": "qsvufi1ms68j4mntkfja4kq3q4",
+   "originalStartTime": {
+    "dateTime": "2015-10-13T11:45:00-04:00"
+   },
+   "iCalUID": "qsvufi1ms68j4mntkfja4kq3q4@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2695320188000000\"",
+   "id": "1ttkkhj4m32k10nekvahq628c4_20151014T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MXR0a2toajRtMzJrMTBuZWt2YWhxNjI4YzRfMjAxNTEwMTRUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-04T14:51:03.000Z",
+   "updated": "2012-09-14T22:01:34.000Z",
+   "summary": "Dayton Dynamic Languages SIG",
+   "description": "The Dayton Dynamic Languages Users Group was born out of the Dayton Perl Mongers, which widened their interests to include other languages such as PHP, Python, Ruby on Rails, CGI, etc., in addition to Perl.\n\nhttp://dayton-dynamic.github.com/",
+   "location": "Dayton Chess Club, 18 West Fifth St., Dayton, Dayton OH",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-14T19:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-10-14T20:00:00-04:00"
+   },
+   "recurringEventId": "1ttkkhj4m32k10nekvahq628c4",
+   "originalStartTime": {
+    "dateTime": "2015-10-14T19:00:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "1ttkkhj4m32k10nekvahq628c4@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2800403507334000\"",
+   "id": "080vm3nkj9g538a1ivftr3ua78_20151015T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDgwdm0zbmtqOWc1MzhhMWl2ZnRyM3VhNzhfMjAxNTEwMTVUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "0000-12-29T00:00:00.000Z",
+   "updated": "2014-05-16T00:55:53.667Z",
+   "summary": "Dayton Linux User Group",
+   "description": "http://www.dma1.org/linux/",
+   "location": "Russ Engineering, Wright State University, Dayton, OH (usually; varies)",
+   "creator": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-15T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2015-10-15T21:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "recurringEventId": "080vm3nkj9g538a1ivftr3ua78",
+   "originalStartTime": {
+    "dateTime": "2015-10-15T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "visibility": "public",
+   "iCalUID": "080vm3nkj9g538a1ivftr3ua78@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2544181654758000\"",
+   "id": "ogmsohsnjujlnaikrs3fctrr84_20151017T190000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=b2dtc29oc25qdWpsbmFpa3JzM2ZjdHJyODRfMjAxNTEwMTdUMTkwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-04T14:48:16.000Z",
+   "updated": "2010-04-24T06:33:47.379Z",
+   "summary": "DMA Classic Computer SIG",
+   "description": "Classes in older computer hardware and software\n\nhttp://www.dma.org/sigs.shtml#Classic",
+   "location": "Sugar Grove Bible Church, 7875 S. Kessler-Frederick Road, Dayton OH",
+   "creator": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-17T15:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-10-17T17:00:00-04:00"
+   },
+   "recurringEventId": "ogmsohsnjujlnaikrs3fctrr84",
+   "originalStartTime": {
+    "dateTime": "2015-10-17T15:00:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "ogmsohsnjujlnaikrs3fctrr84@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2853081387440000\"",
+   "id": "rn4pa91ovataslnj3fgi4ihpc8_20151019T223000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cm40cGE5MW92YXRhc2xuajNmZ2k0aWhwYzhfMjAxNTEwMTlUMjIzMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2013-09-15T14:26:16.000Z",
+   "updated": "2015-03-16T21:18:13.720Z",
+   "summary": "Dayton Drupal User Group",
+   "description": "A monthly user group for Drupal enthusiasts and professionals to share their Drupal knowledge and experience.",
+   "location": "4035 Col. Glenn Hwy., Suite 300, Beavercreek, OH",
+   "creator": {
+    "email": "grant.g.root@gmail.com",
+    "displayName": "Grant Root"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-19T18:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2015-10-19T20:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "recurringEventId": "rn4pa91ovataslnj3fgi4ihpc8",
+   "originalStartTime": {
+    "dateTime": "2015-10-19T18:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "visibility": "public",
+   "iCalUID": "rn4pa91ovataslnj3fgi4ihpc8@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2590783633342000\"",
+   "id": "a14opckienffgtpdqpp3iip404_20151019T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=YTE0b3Bja2llbmZmZ3RwZHFwcDNpaXA0MDRfMjAxNTEwMTlUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-12-04T16:00:14.000Z",
+   "updated": "2011-01-18T23:03:36.671Z",
+   "summary": "Apple Dayton SIG",
+   "description": "http://sites.google.com/site/appledaytonsig/",
+   "location": "Fairborn, OH",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-19T19:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-10-19T20:00:00-04:00"
+   },
+   "recurringEventId": "a14opckienffgtpdqpp3iip404",
+   "originalStartTime": {
+    "dateTime": "2015-10-19T19:00:00-04:00"
+   },
+   "iCalUID": "a14opckienffgtpdqpp3iip404@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2569045582746000\"",
+   "id": "h1qj8thdc46e43lc4utqi6q9bo_20151020T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aDFxajh0aGRjNDZlNDNsYzR1dHFpNnE5Ym9fMjAxNTEwMjBUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-25T21:31:08.000Z",
+   "updated": "2010-09-15T03:53:11.373Z",
+   "summary": "DMA Software Development SIG",
+   "description": "http://www.dma.org/softdev/",
+   "location": "Donato's Pizza, 5600 Airway Rd., Riverside, OH",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-20T19:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-10-20T20:00:00-04:00"
+   },
+   "recurringEventId": "h1qj8thdc46e43lc4utqi6q9bo",
+   "originalStartTime": {
+    "dateTime": "2015-10-20T19:00:00-04:00"
+   },
+   "iCalUID": "h1qj8thdc46e43lc4utqi6q9bo@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2722658120804000\"",
+   "id": "pgkm6updute6shaeqgc7sasu48_20151026T223000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=cGdrbTZ1cGR1dGU2c2hhZXFnYzdzYXN1NDhfMjAxNTEwMjZUMjIzMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-04-15T14:52:03.000Z",
+   "updated": "2013-02-20T02:57:40.402Z",
+   "summary": "Dayton Area Computing Women",
+   "description": "Dinner meeting.  See dacw.org\n\nDACW supports women in computing by facilitating peer communication, advancing technical education, and strengthening personal skills, in order to further the professional development of its members.",
+   "location": "Panera Bread, 2751 Fairfield Commons Boulevard, Beavercreek, OH (Fairfield Mall)",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-26T18:30:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-10-26T20:00:00-04:00"
+   },
+   "recurringEventId": "pgkm6updute6shaeqgc7sasu48",
+   "originalStartTime": {
+    "dateTime": "2015-10-26T18:30:00-04:00"
+   },
+   "visibility": "public",
+   "iCalUID": "pgkm6updute6shaeqgc7sasu48@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2796069077156000\"",
+   "id": "dhrjd4vmmfp9ohs71dcesaabns_20151027T160000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=ZGhyamQ0dm1tZnA5b2hzNzFkY2VzYWFibnNfMjAxNTEwMjdUMTYwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2013-02-23T05:27:00.000Z",
+   "updated": "2014-04-20T22:55:38.578Z",
+   "summary": "Dayton Ruby Brigade",
+   "description": "http://www.meetup.com/daytonrb\n\nWe are group of programmers, students, and technology enthusiasts who are excited about the Ruby programming language and the Ruby on Rails web framework.\n\nWe meet on the fourth Tuesday of every month to contribute to open source, work on personal projects, and present topics related to Ruby. All skill levels are welcome!\n\nFood and drinks for attendees.\n",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-27T12:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-10-27T13:00:00-04:00"
+   },
+   "recurringEventId": "dhrjd4vmmfp9ohs71dcesaabns",
+   "originalStartTime": {
+    "dateTime": "2015-10-27T12:00:00-04:00"
+   },
+   "transparency": "transparent",
+   "iCalUID": "dhrjd4vmmfp9ohs71dcesaabns@google.com",
+   "sequence": 2
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2844392722870000\"",
+   "id": "7970jr4fnstvnu69lfbq5qelvc_20151027T223000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nzk3MGpyNGZuc3R2bnU2OWxmYnE1cWVsdmNfMjAxNTEwMjdUMjIzMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2015-01-25T14:32:41.000Z",
+   "updated": "2015-01-25T14:32:41.435Z",
+   "summary": "Code for Dayton",
+   "description": "http://www.meetup.com/Code-for-Dayton/",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-27T18:30:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-10-27T20:00:00-04:00"
+   },
+   "recurringEventId": "7970jr4fnstvnu69lfbq5qelvc",
+   "originalStartTime": {
+    "dateTime": "2015-10-27T18:30:00-04:00"
+   },
+   "iCalUID": "7970jr4fnstvnu69lfbq5qelvc@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2569045585186000\"",
+   "id": "h1j0vuasa0q51r14ktgfd5ol4g_20151028T220000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=aDFqMHZ1YXNhMHE1MXIxNGt0Z2ZkNW9sNGdfMjAxNTEwMjhUMjIwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-08-12T15:13:40.000Z",
+   "updated": "2010-09-15T03:53:12.593Z",
+   "summary": "Dayton .NET Developer Group",
+   "description": "See the web site for upcoming meeting topics: http://DaytonDevGroup.net",
+   "location": "IDCAST/UDRI, TechTown, 711 East Monument Avenue, Suite 101",
+   "creator": {
+    "email": "joewirtley@gmail.com",
+    "displayName": "Joe Wirtley"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-10-28T18:00:00-04:00"
+   },
+   "end": {
+    "dateTime": "2015-10-28T21:00:00-04:00"
+   },
+   "recurringEventId": "h1j0vuasa0q51r14ktgfd5ol4g",
+   "originalStartTime": {
+    "dateTime": "2015-10-28T18:00:00-04:00"
+   },
+   "iCalUID": "h1j0vuasa0q51r14ktgfd5ol4g@google.com",
+   "sequence": 0
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2678026982000000\"",
+   "id": "cqk2gdfcvjdgk7mroqj1km08s4_20151104T230000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Y3FrMmdkZmN2amRnazdtcm9xajFrbTA4czRfMjAxNTExMDRUMjMwMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2010-03-06T13:35:05.000Z",
+   "updated": "2012-06-06T20:11:31.000Z",
+   "summary": "Dayton Web Developers",
+   "description": "Dayton Ohio area web developers meet to network and share information.\nhttp://www.meetup.com/dayton-web-developers/\nhttps://www.knowledgenow.net/community/views/home.aspx?Filter=104",
+   "location": "Crown Partners, 7750 Paragon Road, Dayton, OH",
+   "creator": {
+    "email": "grant.g.root@gmail.com",
+    "displayName": "Grant Root"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-11-04T18:00:00-05:00"
+   },
+   "end": {
+    "dateTime": "2015-11-04T19:30:00-05:00"
+   },
+   "recurringEventId": "cqk2gdfcvjdgk7mroqj1km08s4",
+   "originalStartTime": {
+    "dateTime": "2015-11-04T18:00:00-05:00"
+   },
+   "visibility": "public",
+   "iCalUID": "cqk2gdfcvjdgk7mroqj1km08s4@google.com",
+   "sequence": 1
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2822542879170000\"",
+   "id": "0qaboh1vhsmtqfvvfq5cp8hv34_20151105T233000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MHFhYm9oMXZoc210cWZ2dmZxNWNwOGh2MzRfMjAxNTExMDVUMjMzMDAwWiBhZG1pbkBkYXl0b250ZWNoZXZlbnRzLmNvbQ",
+   "created": "2014-09-21T03:50:39.000Z",
+   "updated": "2014-09-21T03:50:39.585Z",
+   "summary": "Dayton Area Network Professionals",
+   "description": "http://danpa.org/",
+   "creator": {
+    "email": "catherine.devlin@gmail.com",
+    "displayName": "Catherine Devlin"
+   },
+   "organizer": {
+    "email": "admin@daytontechevents.com",
+    "displayName": "Admin Dayton Tech Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2015-11-05T18:30:00-05:00"
+   },
+   "end": {
+    "dateTime": "2015-11-05T21:00:00-05:00"
+   },
+   "recurringEventId": "0qaboh1vhsmtqfvvfq5cp8hv34",
+   "originalStartTime": {
+    "dateTime": "2015-11-05T18:30:00-05:00"
+   },
+   "iCalUID": "0qaboh1vhsmtqfvvfq5cp8hv34@google.com",
+   "sequence": 0
+  }
+ ]
 }
