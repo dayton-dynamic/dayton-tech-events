@@ -7,7 +7,7 @@ layout: default
   <h1 class="page-heading">Events</h1>
 
   <ul>
-  {% for event in site.data.events.items %}
+  {% for event in site.data.events %}
     <li>{{event.start.dateTime | date: "%a, %b %d %I:%M %p"  }}:
       <a href="{{event.htmlLink}}">{{event.summary}}</a></li>
   {% endfor %}
