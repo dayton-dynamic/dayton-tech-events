@@ -3,9 +3,9 @@
 - name: DaytonCREATE
   url: http://daytoncreate.org/
 - name: Dayton Linux Users Group
-  url: http://www.dma.org/linuxsig/
+  url: http://www.dma1.org/linux/
 - name: Dayton Microcomputer Association (DMA)
-  url: http://www.dma.org/
+  url: http://www.dma1.org/
 - name: Dayton .NET Developers Group
   url: http://daytondevgroup.net/default.aspx
 - name: Dayton Adobe User Group
@@ -13,7 +13,7 @@
 - name: Dayton Sharepoint User Group
   url: http://www.dayspug.org/
 - name: DMA Digital Photography SIG
-  url: http://www.dma.org/photosig/
+  url: http://www.dma1.org/photosig/
 - name: Ohio Information Security Forum
   url: http://ohioinfosec.org/
 - name: Technology First
